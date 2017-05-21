@@ -4,4 +4,6 @@ Rails.application.routes.draw do
       resources :streams, only: [:index, :show]
     end
   end
+
+  resources :streams, only: [:index, :show]
 end
