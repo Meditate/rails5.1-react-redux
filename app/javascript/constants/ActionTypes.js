@@ -1,0 +1,2 @@
+export const CREATE_STREAM = "CREATE_STREAM"
+export const JOIN_STREAM = "JOIN_STREAM"
